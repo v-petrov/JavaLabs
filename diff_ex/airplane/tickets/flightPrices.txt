@@ -1,0 +1,6 @@
+Russia,1000
+Bulgaria,600
+USA,1500
+Canada,1300
+Tunis,2000
+Dubai,3500
